@@ -59,6 +59,7 @@ Documentation:
 - Added SUMO-RL as example project (@LucasAlegre)
 - Fix docstring of classes in atari_wrappers.py which were inside the constructor (@LucasAlegre)
 - Added SB3-Contrib page
+- Fix bug in the example code of DQN (@AptX395)
 
 Pre-Release 0.10.0 (2020-10-28)
 -------------------------------
